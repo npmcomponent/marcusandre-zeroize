@@ -1,0 +1,17 @@
+{
+  "name": "zeroize",
+  "repo": "marcusandre/zeroize",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Prepend numbers with a leading-zero.",
+  "keywords": ["zeroize", "numbers", "ranges"],
+  "dependencies": {
+    "component/each": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "remotes": []
+}
