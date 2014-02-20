@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var each = require('each');
+var each = require('component-each');
 
 /**
  * Prepend numbers with a leading-zero.

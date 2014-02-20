@@ -1,0 +1,15 @@
+{
+  "name": "marcusandre-zeroize",
+  "description": "Prepend numbers with a leading-zero.",
+  "version": "0.0.1",
+  "keywords": [
+    "zeroize",
+    "numbers",
+    "ranges"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-each": "git://github.com/npmcomponent/component-each.git"
+  },
+  "license": "MIT"
+}
